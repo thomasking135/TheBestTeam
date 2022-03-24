@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/thomasking135/the_best_team.guthub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are The Best Team a group of five passionate web designers and software engineers. Our team include Alina Yu, Vaishu Anand, Shiv Verma, Kieran McCall, and Thomas King. Most of our team is Canterbury based with Vaishu being the sole North Islander in our mix. We bring many skills to the table. But the one thing that unites us is using our super powers to build beautiful solutions for our clients. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When you want the best, you need The Best Team!
 
-### Markdown
+###Our Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our recent work on the Kēmu solution merged our passion for functional elegance with irresistible style and appeal. We strived to create a UX which was second to none while making sure that every click leads to a mission accomplished for the user. 
 
-```markdown
-Syntax highlighted code block
+![Image](src)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+###Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasking135/the_best_team.guthub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want The Best website for your team! Then you need The Best Team
+https://www.thebestteam.co.nz
