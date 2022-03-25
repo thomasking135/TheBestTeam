@@ -8,7 +8,7 @@ When you want the best, you need The Best Team!
 
 Our recent work on the Kēmu solution merged our passion for functional elegance with irresistible style and appeal. We strived to create a UX which was second to none while making sure that every click leads to a mission accomplished for the user. 
 
-![Image](src)
+![Image](powerRangers.JPG)
 
 
 ## Contact
