@@ -1,6 +1,6 @@
 ## Welcome everybody!
 
-We are The Best Team a group of five passionate web designers and software engineers. Our team include Alina Yu, Vaishu Anand, Shiv Verma, Kieran McCall, and Thomas King. Most of our team is Canterbury based with Vaishu being the sole North Islander in our mix. We bring many skills to the table. But the one thing that unites us is using our super powers to build beautiful solutions for our clients. 
+We are The Best Team a group of five passionate web designers and software engineers. Our team include Alina Yu, Vaishu Anand, Bo Liu, Kieran McCall, and Thomas King. Most of our team is Canterbury based with Vaishu being the sole North Islander in our mix. We bring many skills to the table. But the one thing that unites us is using our super powers to build beautiful solutions for our clients. 
 
 When you want the best, you need The Best Team!
 
